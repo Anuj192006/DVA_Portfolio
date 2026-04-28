@@ -53,14 +53,14 @@ export default function App() {
       desc: "Conducted exploratory data analysis on a large-scale video game sales dataset (~16K records) to uncover global trends across regions, platforms, and genres. Analyzed sales distribution, regional performance, and genre popularity using Python-based tools. Developed visualizations to highlight key patterns and correlations, enabling data-driven insights into market dynamics and consumer preferences.",
       tags: ["Python", "EDA", "Visualization"],
       img: `${baseURL}image2.png`,
-      link: "https://github.com/Anuj192006",
+      link: "https://github.com/paramkhodiyar/SecE_G15_VideoGameSales",
     },
     {
       title: "Car Resale Analytics",
       desc: "Analyzed used car resale prices across Indian cities with 179,490 records. Built regression and ML models to predict resale value using car specifications and usage details. Investigated impact of car age, kilometers driven, fuel type, and transmission on resale prices. Identified key depreciation patterns and market concentration insights to optimize pricing strategies.",
       tags: ["Python", "ML", "Data Analysis"],
       img: `${baseURL}image.png`,
-      link: "https://github.com/Anuj192006",
+      link: "https://github.com/vani-max/Car_Resale_Analytics",
     },
   ];
 
